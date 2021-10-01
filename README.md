@@ -25,6 +25,6 @@ For the application you will need the following on the server-side (where the no
 
 License
 -------
-Feel free to modify, contribute, fork, print it or whatever.
-Every part of this code I wrote is released under the [WTFPL](http://www.wtfpl.net/).
-For the libraries/modules I used you have to see for yourself.
+<p>Feel free to modify, contribute, fork, print it or whatever.</p>
+<p>Every part of this code I wrote is released under the [WTFPL](http://www.wtfpl.net/).</p>
+<p>For the libraries/modules I used you have to see for yourself.</p>
